@@ -8,6 +8,7 @@ public class Reverse {
 		int[] a= {1,3,5,7,9};
 		
 		int i,j;
+	//temp is used to store temperory value
 		int temp=a[a.length-1];
 		for(i=a.length-1;i>0;i--)
 		{
